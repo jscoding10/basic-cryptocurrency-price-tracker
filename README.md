@@ -5,12 +5,6 @@
 This application tracks the current price of various cryptocurrencies. Users have the ability to see the current price of four cryptocurrencies: Bitcoin, Ethereum, Ripple (XRP), and Kaspa. Users can also add cryptocurrencies of their choice by editing the code. 
 
 ## Instructions
-To set up a local copy, follow these simple steps:
-
-```
-git clon https://github.com/jscoding10/basic-cryptocurrency-price-tracker.git
-cd basic-cryptcurrency-price-tracker
-```
 Open index.html in browser of choice
 
 ## Technology Used
